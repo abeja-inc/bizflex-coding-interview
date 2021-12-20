@@ -1,0 +1,27 @@
+.Clock {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #929799;
+}
+
+.Clock h2 {
+  display: flex;
+  flex-direction: column;
+  font-size: 100%;
+}
+
+.Clock h2 .diff {
+  color: #929799;
+  font-size: 80%;
+}
+
+.Clock h2 .title {
+  font-size: 130%;
+}
+
+.Clock p {
+  font-size: 300%;
+}

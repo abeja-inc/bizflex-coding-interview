@@ -1,0 +1,12 @@
+.Settings {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 15px 0;
+  letter-spacing: 0.5px;
+  font-size: 80%;
+}
+
+.Settings select {
+  margin-left: 5px;
+}
