@@ -13,7 +13,7 @@
 
 下記スクリーンショットのような世界時計を実装してください。デザインまでは実装されたファイルが `src` ディレクトリ以下に用意していますので、不足している処理を実装する形になります。
 
-![](https://raw.githubusercontent.com/abeja-inc/bizflex-coding-interview-solutions/main/exercises/01-typescript-clock/doc/screen.png?token=AAAEQEAW5UYMW6ZGDQWNHXLBZFN7W)
+![](https://raw.githubusercontent.com/abeja-inc/bizflex-coding-interview/main/exercises/01-typescript-clock/doc/screen.png?token=AAAEQEEWEALFKMJACG7OHBDBZF3S2)
 
 ### 機能要件
 
@@ -36,7 +36,7 @@
   - 1 秒
   - 5 秒
 
-正解となる動作を録画した[動画ファイル](https://github.com/abeja-inc/bizflex-coding-interview-solutions/blob/main/exercises/01-typescript-clock/doc/screen.mov)も参考にしてください。
+正解となる動作を録画した[動画ファイル](https://github.com/abeja-inc/bizflex-coding-interview/blob/main/exercises/01-typescript-clock/doc/screen.mov)も参考にしてください。
 
 ### 実行方法
 
